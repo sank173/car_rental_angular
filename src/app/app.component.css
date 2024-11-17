@@ -1,0 +1,35 @@
+.custom-navbar {
+  background-color: #003973;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px;
+}
+
+.navbar-title a {
+  color: white !important;
+  margin-left: 10px;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.nav-links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.nav-links a {
+  color: white;
+  margin-left: 15px;
+}
+/*# sourceMappingURL=app.component.css.map */
